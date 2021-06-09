@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Gps diplom</string>
+    <string name="label_coord">Координаты:</string>
+    <string name="tw_lat"></string>
+    <string name="tw_long"></string>
+    <string name="label_altitude">Высота:</string>
+    <string name="tw_alt"></string>
+    <string name="label_speed">Скорость:</string>
+    <string name="tw_acc"></string>
+    <string name="gps">GPS</string>
+    <string name="network">Network</string>
+    <string name="passive">Passive</string>
+    <string name="provider"></string>
+    <string name="bt_home">Домой</string>
+    <string name="bt_maps">Карта</string>
+    <string name="bt_distant">дистанция</string>
+    <string name="bt_home_d">Домой</string>
+    <string name="bt_maps_d">Карты</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="saveLatLong">Запись маршрута</string>
+    <string name="Dialog_title_bar">Введите расстояние</string>
+    <string name="Dialog_button_bar">Готово</string>
+    <string name="ed_bar_title">Значение в метрах</string>
+    <string name="tw_progress_bar"></string>
+    <string name="Dialog_negative_btn">Отмена</string>
+    <string name="tw_proideno">Пройдено: </string>
+    <string name="show_popular_places">Показать популярные места</string>
+    <string name="start_save_line">Начать отслеживать</string>
+    <string name="sound_notify">Звуковые уведомления</string>
+    <string name="vibrate_notify">Вибрация при уведомлении</string>
+    <string name="btn_save">Сохранить</string>
+    <string name="btn_clear">Очистить</string>
+    <string name="type_move"></string>
+    <string name="move_1">на месте</string>
+    <string name="move_2">пешком</string>
+    <string name="move_3">бег</string>
+    <string name="move_4">на велосипеде</string>
+    <string name="move_5">на машине</string>
+    <string name="move_6">на самолете</string>
+
+
+    <string name="permission_rationale_location">Access to the location service is required to demonstrate the \'my location\' feature, which shows your current location on the map.</string>
+    <string name="location_permission_denied">This sample requires location permission to enable the \'my location\' layer. Please try again and grant access to use the location.\nIf the permission has been permanently denied, it can be enabled from the System Settings &gt; Apps &gt; \'Google Maps API Demos\'.</string>
+    <string name="permission_required_toast">Location permission is required for this demo.</string>
+
+
+    <string name="kml_file_header">
+    </string>
+
+</resources>

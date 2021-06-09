@@ -1,0 +1,7 @@
+<Placemark>
+    <name>%1$s</name>
+    <description>%2$s</description>
+    <Point>
+      <coordinates>%3$s,%4$s,0</coordinates>
+    </Point>
+</Placemark>
